@@ -1,0 +1,15 @@
+{
+  "name": "@Breadamonium/github-pkg-demo",
+  "repository": {
+      "url": "git://github.com/breadamonium/github-pkg-demo.git"
+  },
+  "version": "1.0.0",
+  "description": "breadamonium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
